@@ -1,0 +1,3 @@
+# Cloudflare Pages redirects. Intentionally empty.
+# Pages resolves slug/index.html at /slug/ natively, so no rewrite or slash rules are needed.
+# Add only real cross-domain or legacy-path 301s below this line.
